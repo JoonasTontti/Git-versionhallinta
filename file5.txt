@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified local
+=======
+modifications in github
+>>>>>>> 9fb8bb05267a97f8b05ca92c405af9e6b0b30730
